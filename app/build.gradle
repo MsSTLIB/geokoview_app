@@ -8,8 +8,6 @@ android {
     namespace "com.hifly.chaquopy"
     
     compileSdk 34
-    buildToolsVersion "34.0.4"
-    ndkVersion "27.1.12297006"
 
     defaultConfig {
         applicationId "com.hifly.chaquopy"
